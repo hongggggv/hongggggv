@@ -1,5 +1,5 @@
 # 你好呀~
-- 我是 hongggggv，别名机长依，是一名热爱 Minecraft 和洛天依的高中生哦~
+- 我是 B-0712天依號，别名机长依，是一名热爱 Minecraft 和洛天依的高中生哦~
 
 [![Minecraft](https://img.shields.io/badge/Minecraft-62B47A?style=for-the-badge&logo=minecraft&logoColor=white)]()
 [![洛天依](https://img.shields.io/badge/洛天依-66CCFF?style=for-the-badge)]()
